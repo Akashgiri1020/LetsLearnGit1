@@ -3,4 +3,4 @@ b = 10
 c = 20
 a,c = b,a
 
-print(a,b,c)
+print("number after swapping: ",a,b,c)
